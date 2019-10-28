@@ -1,0 +1,9 @@
+.images{
+    overflow: auto;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+img{
+    border: 1px solid darkgrey;
+    padding: 20px;
+}
